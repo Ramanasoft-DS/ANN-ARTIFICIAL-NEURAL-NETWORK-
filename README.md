@@ -33,8 +33,10 @@ $$a = \sigma(z)$$
    ```bash
    git clone [https://github.com/your-username/ann-project.git](https://github.com/your-username/ann-project.git)
    
-2)Install dependencies:
+2) **Install dependencies:**
+```bash
 pip install -r requirements.txt
 
-3)Run the model:
+3) **Run the model:**
+```bash
 python main.py
